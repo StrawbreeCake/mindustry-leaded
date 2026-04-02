@@ -6,11 +6,9 @@ here you will find:
 Installation:
 * Open "mods" in game
 * Open "import from GitHub"
-* Write it:
- PetruCHIOrus/lead_ind
+* Write it: StrawbreeCake/mindustry-leaded
 * Wait...
 * Is that all? It was easy, right?<br/>
-trello https://trello.com/b/8k0ygSAf/lead-ind-trello
 ----------------------------------
 Здравствуйте!  Вы находитесь на странице нашего мода!
 здесь вы найдете:
@@ -20,7 +18,6 @@ trello https://trello.com/b/8k0ygSAf/lead-ind-trello
  Установка:
 * Откройте "mods" в игре
 * Сделайте "import from GitHub"
-* Напишите: PetruCHIOrus/lead_ind
+* Напишите: StrawbreeCake/mindustry-leaded
 * Подождите...
 * И это всё?  Это было легко, правда?<br/>
-trello https://trello.com/b/8k0ygSAf/lead-ind-trello

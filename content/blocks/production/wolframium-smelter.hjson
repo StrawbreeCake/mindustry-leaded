@@ -1,0 +1,44 @@
+name: "Wolframium Smelter"
+type: "GenericCrafter"
+description: "Produces an alloy approximating natural wolframium"
+size: 2
+category: crafting
+craftEffect: "smeltsmoke"
+drawer: {
+    type: "DrawMulti",
+    drawers: [
+        {
+            type: DrawDefault
+        },
+        {
+            type: DrawFlame,
+            flameRadius: 2.3,
+            flameRadiusIn: 1.5,
+            flameRadiusScl: 2.25,
+            flameRadiusMag: 2.0,
+            flameRadiusInMag: 1.5,
+            flameColor: "ffef99"
+        }
+    ]
+}
+hasPower: true
+hasLiquids: false
+craftTime: 60
+itemCapacity: 20
+consumes: {
+	power: 1.5
+	items: {
+		items: [
+			titanium/1
+			lead/1
+		]
+	}
+}
+requirements: [
+	graphite/40
+	lead/100
+	titanium/60
+]
+research: graphite-press
+outputItem: wolframium/1
+ambientSound: "smelter"
