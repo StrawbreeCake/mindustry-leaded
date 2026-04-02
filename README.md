@@ -1,4 +1,5 @@
 Hello! You are on the page of our mod!
+Due to abandonment by the original author (2019), I am trying some new things!
 here you will find:
 * .hjson files from mod
 * interesting sprites
